@@ -1,5 +1,5 @@
 
 <?php
 
-header("Location: backend\index.php");
+header("Location: backend\login.php");
 ?>
